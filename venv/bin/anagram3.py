@@ -8,9 +8,3 @@ with open('wordList.txt', 'r') as f:
     print(len(dictionary))
 
 
-def return_anagrams(letters : str) ->:
-    letters = letters.lower()
-    anagrams = set()
-    for word in dictionary:
-        if not set(word) - set(letters)
-        

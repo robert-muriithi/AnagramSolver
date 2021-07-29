@@ -75,7 +75,7 @@ for x in range(0, 100):
 # usernam@companyname.com
 email = "washi@ifix.com"
 em = email[email.index("@")+1 : email.index(".")]
-uname = email[email.index()]
+uname = email[]
 print(email[uname])
 #start, end, step
 # a = ("a", "b", "c", "d", "e", "f", "g", "h")
